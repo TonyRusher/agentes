@@ -38,4 +38,9 @@ Thumbs.db
 _minted-reference/
 *.aux
 *.out
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+
 
